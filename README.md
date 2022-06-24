@@ -1,3 +1,13 @@
+<h1> Gindex </h1>
+A Laravel application using MongoDB as the backend.
+
+This application is to track interesting gins, their distilleries and the countries the distilleries are based in. Each gin has a rating and how full the bottle on the shelf is, as well as what distillery and country the gin is from. There are approximately 220 gins currently in the seeder as a starting point.
+
+This was a project to learn the differences between SQL and NoSQL databases.
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
